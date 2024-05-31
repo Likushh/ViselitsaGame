@@ -1,0 +1,10 @@
+C:\Users\ilayz\source\repos\Viselitsa\Viselitsa\obj\Debug\Viselitsa.csproj.AssemblyReference.cache
+C:\Users\ilayz\source\repos\Viselitsa\Viselitsa\obj\Debug\Viselitsa.Properties.Resources.resources
+C:\Users\ilayz\source\repos\Viselitsa\Viselitsa\obj\Debug\Viselitsa.csproj.GenerateResource.cache
+C:\Users\ilayz\source\repos\Viselitsa\Viselitsa\obj\Debug\Viselitsa.csproj.CoreCompileInputs.cache
+C:\Users\ilayz\source\repos\Viselitsa\Viselitsa\bin\Debug\Viselitsa.exe.config
+C:\Users\ilayz\source\repos\Viselitsa\Viselitsa\bin\Debug\Viselitsa.exe
+C:\Users\ilayz\source\repos\Viselitsa\Viselitsa\bin\Debug\Viselitsa.pdb
+C:\Users\ilayz\source\repos\Viselitsa\Viselitsa\obj\Debug\Viselitsa.exe
+C:\Users\ilayz\source\repos\Viselitsa\Viselitsa\obj\Debug\Viselitsa.pdb
+C:\Users\ilayz\source\repos\Viselitsa\Viselitsa\obj\Debug\Viselitsa.Form1.resources
